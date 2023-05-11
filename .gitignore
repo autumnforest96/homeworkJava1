@@ -28,9 +28,9 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-# Ignore IDEA and Eclipse project files
+
 .idea/
 *.iml
 
-# Ignore compiled output
+
 out/
